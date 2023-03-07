@@ -1,6 +1,10 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo "ALX School is so cool!"
 =======
 echo "ALX School"
 >>>>>>> b63584c... My personal work
+=======
+echo "ALX School"
+>>>>>>> refs/remotes/origin/update_script
